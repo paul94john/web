@@ -19,3 +19,21 @@ bottom: 30px;
 text-align: center;
 }
 
+a:link {
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: #fff;
+}
+
+/* mouse over link */
+a:hover {
+    color: #f04b1f;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
