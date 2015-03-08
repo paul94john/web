@@ -1,0 +1,157 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 60px;
+font-style: normal;
+margin-left: 5px;
+}.flaticon-down53:before {
+	content: "\e000";
+}
+.flaticon-loving4:before {
+	content: "\e001";	
+	text-align: center;
+	padding: 5px;
+	margin: 0;
+animation: bounce linear 0.8s;
+  animation-iteration-count: infinite;
+  -webkit-animation: bounce linear 0.8s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation: bounce linear 0.8s;
+  -moz-animation-iteration-count: infinite;
+  -o-animation: bounce linear 0.8s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: bounce linear 0.8s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+}
+
+@keyframes bounce{
+  0% {
+    color: hsl(48, 87%, 54%);
+  }
+  15% {
+    color: hsl(40, 87%, 54%);
+  }
+  30% {
+    color: hsl(35, 87%, 54%);
+  }
+  45% {
+    color: hsl(30, 87%, 54%);
+  }
+  60% {
+        color: hsl(25, 87%, 54%);
+  }
+  75% {
+        color: hsl(20, 87%, 54%);
+  }
+  100% {
+    color: hsl(13, 87%, 54%);
+  }
+}
+
+@-moz-keyframes bounce{
+   0% {
+  -moz-color: hsl(48, 87%, 54%);
+  }
+  15% {
+  -moz-color: hsl(40, 87%, 54%);
+  }
+  30% {
+  -moz-color: hsl(35, 87%, 54%);
+  }
+  45% {
+  -moz-color: hsl(30, 87%, 54%);
+  }
+  60% {
+  -moz-color: hsl(25, 87%, 54%);
+  }
+  75% {
+    -moz-color: hsl(20, 87%, 54%);
+  }
+  100% {
+    -moz-color: hsl(13, 87%, 54%);
+  }
+}
+
+@-webkit-keyframes bounce {
+  0% {
+    -webkit-color: hsl(48, 87%, 54%);
+  }
+  15% {
+    -webkit-color: hsl(40, 87%, 54%);
+  }
+  30% {
+    -webkit-color: hsl(35, 87%, 54%);
+  }
+  45% {
+    -webkit-color: hsl(30, 87%, 54%);
+  }
+  60% {
+    -webkit-color: hsl(25, 87%, 54%);
+  }
+  75% {
+    -webkit-color: hsl(20, 87%, 54%);
+  }
+  100% {
+    -webkit-color: hsl(13, 87%, 54%);
+  }
+}
+
+@-o-keyframes bounce {
+  0% {
+    -o-transform:  translate(0px,0px)  ;
+  }
+  15% {
+    -o-transform:  translate(0px,-25px)  ;
+  }
+  30% {
+    -o-transform:  translate(0px,0px)  ;
+  }
+  45% {
+    -o-transform:  translate(0px,-15px)  ;
+  }
+  60% {
+    -o-transform:  translate(0px,0px)  ;
+  }
+  75% {
+    -o-transform:  translate(0px,-5px)  ;
+  }
+  100% {
+    -o-transform:  translate(0px,0px)  ;
+  }
+}
+
+@-ms-keyframes bounce {
+  0% {
+    -ms-transform:  translate(0px,0px)  ;
+  }
+  15% {
+    -ms-transform:  translate(0px,-25px)  ;
+  }
+  30% {
+    -ms-transform:  translate(0px,0px)  ;
+  }
+  45% {
+    -ms-transform:  translate(0px,-15px)  ;
+  }
+  60% {
+    -ms-transform:  translate(0px,0px)  ;
+  }
+  75% {
+    -ms-transform:  translate(0px,-5px)  ;
+  }
+  100% {
+    -ms-transform:  translate(0px,0px)  ;
+  }
+}

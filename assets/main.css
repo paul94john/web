@@ -2,26 +2,20 @@
   background: #eec00a;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+  color:#fff;
 }
 
 .top h1{
-  color:#fff;
   font-size: 75px;
   line-height: 1em;
-  margin-left: 70px;
-  margin-top: 80px;
+  margin-left: 30px;
+  margin-top: 30px;
   text-align: left;
 }
 
-.top p{
-  color:#fff;
-  font-size: 75px;
-  line-height: 0.95em;
-  margin-left: 70px;
-  text-align: left;
+.flaticon-down53{
+position: fixed;
+bottom: 30px;
+text-align: center;
 }
 
-.top img{
-  position: absolute;
-  bottom: 30px;
-}
